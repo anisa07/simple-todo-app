@@ -1,0 +1,13 @@
+.newTodoField {
+  font-size: 16px;
+  border: 1px solid;
+  padding: .25rem;
+  border-right-width: 0;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  flex:1;
+}
+
+.newTodoContainer {
+    display: flex;
+}
